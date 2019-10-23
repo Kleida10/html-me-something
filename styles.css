@@ -1,0 +1,107 @@
+html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: larger;
+    background-image: linear-gradient(rgba(255, 255,255, 0.4),rgba(255, 255, 255, 0.4)), url("https://www.dhresource.com/0x0s/f2-albu-g5-M01-43-94-rBVaJFlIdyOAPVvpAANnAP2QAFA196.jpg/beach-themed-photo-studio-backgrounds-beautiful.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  header{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/57b9b98a29687f1ef5c622df/1497187531242-VFYI5OS8EEKKN19R76DT/ke17ZwdGBToddI8pDm48kNub02L0uULUCOuILx7ZxY8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYApxGE1ZEVFHy9_t5q5kQLGegzyj9kger3C3iinxUowEpV9f-KiSqcIke-dO9nIh/vlora+albania");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 85%;
+    border: 5px double rgba(6, 2, 15, 0);
+    color: white;
+    box-shadow: 10px 8px 5px rgba(0, 0, 0, 0.171);
+}
+
+h1 {
+    color: white;
+    font-size: 2em;
+    margin: 0.67em 0;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    margin-right: 80px;
+    padding: 20px;
+  }
+
+ h2 {
+     color: black;
+     text-shadow: -1px 0 #f3eeee, 0 1px rgb(238, 233, 233), 1px 0 rgb(224, 219, 219), 0 -1px rgb(231, 222, 222);
+ }
+
+p {
+      text-align:left;
+      margin-left: 8%;
+  }
+  
+img {
+    border: 2px solid rgb(0, 0, 0);
+    width: 80%;
+    margin-top: 15px;
+  }
+
+figcaption {
+    font-style: italic;
+}
+
+section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-bottom: rgb(7, 109, 70) dotted 5px;
+    width: 100%;
+}
+
+aside{
+    width: 25%;
+    float: right;
+    margin-top: 350px;
+    border-left: green double 2px;
+  }
+
+.left-float {
+    float: left;
+    width: 70%;
+}
+
+.nav li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+.aside-li {
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 20%;
+    color: black;
+}
+ a:link {
+     color: rgb(163, 19, 19);
+ }
+ a:visited {
+     color: rgba(90, 31, 13, 0.678);
+ }
+ a:hover {
+     color: rgb(14, 189, 174);
+ }
+
+ footer{
+     clear: both;
+     font-size: medium;
+     text-align: center;
+     opacity: 1;
+     
+ }
+  
